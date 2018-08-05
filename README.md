@@ -1,5 +1,5 @@
 
-# Vue.js.-Course-task
+# Vue.js. Course-task
 
 ## Stock Trader Application
 
