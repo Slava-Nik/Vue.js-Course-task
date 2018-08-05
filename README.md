@@ -3,7 +3,7 @@
 
 ## Stock Trader Application
 
-The task was to create a SPA(single page application) app  with Vue.js, using: 
+The task was to create a SPA(single page application) with Vue.js, using: 
 
 1) single file components
 2) vue-router
